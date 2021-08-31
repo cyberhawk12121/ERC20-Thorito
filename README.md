@@ -1,4 +1,4 @@
-## CrowdFunding Dapp
+## ERC20-Thorito
 
 ### How to run
 To the run the contract make sure you have:
